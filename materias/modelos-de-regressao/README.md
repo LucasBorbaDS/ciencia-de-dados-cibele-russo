@@ -40,11 +40,12 @@
 - Aula 14: Diagnóstico em MLGs e Função Desvio (Deviance e Resíduos em MLGs)
 - Aula 15: Regressão Logística e Resposta Binária (Razão de Chances / Odds Ratio, Função Logito e Prática Computacional)
 
-## 🏷️ Subtemas (playlists do canal)
+## 🏷️ Subtemas 
 
-- (sem playlist, por título)
-- EST5507 Modelos de Regressão (PIPGEs)
 - Modelos de regressão
+- EST5507 Modelos de Regressão (PIPGEs)
+- Mínimos quadrados na regressão múltipla
+- Regressão logística e resposta binária
 - SME0823 Modelos de Regressão e Aprendizado Supervisionado II
 
 ## 🖼️ Prévia dos slides

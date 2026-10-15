@@ -22,10 +22,10 @@
 2. Leia a aula correspondente em [aulas.md](aulas.md).
 3. Revise com os slides e faça os exercícios/quiz do guia.
 
-## 🏷️ Subtemas (playlists do canal)
+## 🏷️ Subtemas 
 
-- (sem playlist, por título)
 - SME0803 Visualização e Exploração de Dados
+- Associação entre variáveis qualitativas (qui-quadrado)
 
 ## 🖼️ Prévia dos slides
 
