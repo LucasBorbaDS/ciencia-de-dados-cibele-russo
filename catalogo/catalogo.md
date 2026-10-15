@@ -2,59 +2,118 @@
 
 Total: 231 vídeos
 
-## Análise Multivariada e Aprendizado Não-Supervisionado (37)
+## Análise Multivariada e Aprendizado Não-Supervisionado (36)
 
-### (sem playlist, por título)
+### Análise descritiva multivariada
 
-- [A.M.A.N.Supervised - Lesson 5b Python Applications for Mean Vector Hypothesis Testing](https://www.youtube.com/watch?v=7jPeKSk-Ojo) 0:26:57
-- [A.M.Aprend. Não Supervisionado - Aula 5a Testes de Hipóteses para a comparação de vetores de médias](https://www.youtube.com/watch?v=GIyvmeOSDvY) 0:23:12
-- [Análise Multivariada e A Não-Supervisionado Aula11d Análise discriminante Linear aplicação em Python](https://www.youtube.com/watch?v=xd0ov7v0dKM) 0:12:13
-- [Análise Multivariada e A Ñ Supervisionado - Aula 9b Análise de Correlações Canônicas Aplic em Python](https://www.youtube.com/watch?v=F1bJTOUGKpI) 0:12:45
-- [Análise Multivariada e Ap Não-Supervisionado - Aula10b Análise de Agrupamentos - Aplicação em Python](https://www.youtube.com/watch?v=d_CJGaAbC7o) 0:17:19
-- [Análise Multivariada e Apren Não-Supervisionado - Aula 6a Análise de Variância Multivariada - MANOVA](https://www.youtube.com/watch?v=cHdjbMPQMN8) 0:23:56
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Análise de Correlações Canônicas](https://www.youtube.com/watch?v=Da9HjncQhbY) 0:26:26
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula 4a Distribuição Normal Multivariada](https://www.youtube.com/watch?v=sSXll3OgdIY) 0:33:43
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula 6b - Aplicação de MANOVA em R](https://www.youtube.com/watch?v=aFAj6cjt350) 0:09:42
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula 6d Regressão Multivariada em R](https://www.youtube.com/watch?v=8Xha2i_q6WM) 0:14:07
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula aberta](https://www.youtube.com/watch?v=cDyIRfFG2F8) 0:55:22
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula10a Análise de Agrupamentos](https://www.youtube.com/watch?v=zyLDAnQMnbo) 0:30:14
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula10c Agrupamentos exemplo passo a passo](https://www.youtube.com/watch?v=Re97VX6ZhPA) 0:28:04
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula11a Análise discriminante linear](https://www.youtube.com/watch?v=C-0PoI063-c) 0:29:34
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula11b Função de discriminação logística](https://www.youtube.com/watch?v=c23oAl8JRnA) 0:10:58
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula11c Análise discriminante linear Exemplo](https://www.youtube.com/watch?v=TtVh2J7y5Js) 0:13:29
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula12a Análise de Correspondência](https://www.youtube.com/watch?v=Z7UMIEUx2xM) 0:23:54
 - [Análise Multivariada e Aprendizado Não-Supervisionado - Aula1b Análise descritiva em R](https://www.youtube.com/watch?v=nCGpjkjoqFI) 0:23:16
 - [Análise Multivariada e Aprendizado Não-Supervisionado - Aula1c - Análise descritiva em Python](https://www.youtube.com/watch?v=R44jbSmpjgg) 0:11:21
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula6c Regressão Multivariada](https://www.youtube.com/watch?v=9QIh71MQ2xQ) 0:27:06
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula8b Análise Fatorial -Aplicação em Python](https://www.youtube.com/watch?v=RlJHVUktHaM) 0:29:45
-- [Análise Multivariada e Aprendizado Não-Supervisionado - Exemplo Produto de Kronecker - Aula2c](https://www.youtube.com/watch?v=Fqa2f9FiqTU) 0:06:47
+- [Multivariate Analysis and Unsupervised Learning - Descriptive Analysis](https://www.youtube.com/watch?v=aJUFI6BSEJw) 0:12:42
+
+### Notação matricial
+
 - [Análise Multivariada e Aprendizado Não-Supervisionado - Notação Matricial Parte 1 - Aula 2a SME0822](https://www.youtube.com/watch?v=GKSY1oNb6G0) 0:18:19
 - [Análise Multivariada e Aprendizado Não-Supervisionado - Notação Matricial Parte 2 - Aula 2b](https://www.youtube.com/watch?v=RWCGJz70nQ0) 0:20:13
-- [Análise Multivariada e Aprendizado Não-Supervisionado - PCA Componentes principais - Aplicação em R](https://www.youtube.com/watch?v=TvMeRSzaHzI) 0:27:12
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Exemplo Produto de Kronecker - Aula2c](https://www.youtube.com/watch?v=Fqa2f9FiqTU) 0:06:47
 - [Análise Multivariada e Aprendizado Não-Supervisionado -Exemplos Notação Matricial em Python Aula 2d](https://www.youtube.com/watch?v=99tC4J9tYmk) 0:08:44
-- [Análise Multivariada e Aprendizado Não-Supervisionado 12b Análise de Correspondência aplic em Python](https://www.youtube.com/watch?v=hgmLLcgrx-k) 0:11:40
-- [Aplicações em Python e rpy2 Shapiro Wilk, Teorema Limite Central e Teste de hipóteses para a média](https://www.youtube.com/watch?v=FoBRxYQmIZg) 0:18:30
+
+### Vetores aleatórios
+
 - [Aula 3a - Vetores aleatórios - SME0822 Análise Multivariada e Aprendizado Não-Supervisionado](https://www.youtube.com/watch?v=ms3cGoAC0KE) 0:30:14
-- [Aula 4c - Inferência sobre um vetor de médias](https://www.youtube.com/watch?v=V6aHJEl45uU) 0:28:41
 - [Aula3b Propriedades dos estimadores: vetor de médias e matriz de variâncias e covariâncias amostrais](https://www.youtube.com/watch?v=5d-lTN0NWR0) 0:25:51
-- [Lesson 10d - Cluster Analysis - A quick application in R](https://www.youtube.com/watch?v=zxNYDvOywa4) 0:08:06
-- [Multivariate Analysis and Unsupervised Learning - Descriptive Analysis](https://www.youtube.com/watch?v=aJUFI6BSEJw) 0:12:42
-- [Multivariate Analysis and Unsupervised Learning - Lecture 7a Principal Component Analysis](https://www.youtube.com/watch?v=q3eO_1r1pn4) 0:36:31
-- [Multivariate Analysis and Unsupervised Learning - Lecture 8a Factor Analysis](https://www.youtube.com/watch?v=UdSkIrR4mZY) 0:31:56
-- [Multivariate Analysis and Unsupervised Learning - Lesson 7b Principal Component Analysis PCA in P...](https://www.youtube.com/watch?v=u8th43VOyCw) 0:21:10
+
+### Distribuição normal multivariada
+
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula 4a Distribuição Normal Multivariada](https://www.youtube.com/watch?v=sSXll3OgdIY) 0:33:43
 - [Unsupervised Learning A.M.A. Lecture 4b - Visualization in R and Python - Multivariate Normal Dis...](https://www.youtube.com/watch?v=ZJXkjHVi2TY) 0:09:26
 
-## Estatística e Inferência (46)
+### Teste de Hotelling e comparação de vetores de médias
 
-### (sem playlist, por título)
+- [Aula 4c - Inferência sobre um vetor de médias](https://www.youtube.com/watch?v=V6aHJEl45uU) 0:28:41
+- [A.M.Aprend. Não Supervisionado - Aula 5a Testes de Hipóteses para a comparação de vetores de médias](https://www.youtube.com/watch?v=GIyvmeOSDvY) 0:23:12
+- [A.M.A.N.Supervised - Lesson 5b Python Applications for Mean Vector Hypothesis Testing](https://www.youtube.com/watch?v=7jPeKSk-Ojo) 0:26:57
 
-- [Introduction to Statistical Inference - Hypothesis Testing](https://www.youtube.com/watch?v=lzflg-0U01Y) 1:12:16
-- [Introdução Inferência Estatística - Estimador de máx verossimilhança da média e variância da Normal](https://www.youtube.com/watch?v=bJ-fqVKYxc0) 1:17:01
-- [Introdução à Inferência Estatística - Erro padrão do estimador](https://www.youtube.com/watch?v=P4pFKLxnQ4g) 0:44:16
-- [Introdução à Inferência Estatística - Intervalos de confiança](https://www.youtube.com/watch?v=i2pU3jRBBdQ) 1:20:31
-- [Introdução à Inferência Estatística - Introdução à Inferência Bayesiana com Aplicação em Python](https://www.youtube.com/watch?v=6mL83-hzDG4) 0:28:43
-- [SME0123 Estatística I - Combinação linear de variáveis aleatórias normais](https://www.youtube.com/watch?v=4yhHa8RvcLk) 1:33:51
+### MANOVA
+
+- [Análise Multivariada e Apren Não-Supervisionado - Aula 6a Análise de Variância Multivariada - MANOVA](https://www.youtube.com/watch?v=cHdjbMPQMN8) 0:23:56
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula 6b - Aplicação de MANOVA em R](https://www.youtube.com/watch?v=aFAj6cjt350) 0:09:42
+
+### Regressão multivariada
+
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula6c Regressão Multivariada](https://www.youtube.com/watch?v=9QIh71MQ2xQ) 0:27:06
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula 6d Regressão Multivariada em R](https://www.youtube.com/watch?v=8Xha2i_q6WM) 0:14:07
+
+### Componentes principais (PCA)
+
+- [Multivariate Analysis and Unsupervised Learning - Lecture 7a Principal Component Analysis](https://www.youtube.com/watch?v=q3eO_1r1pn4) 0:36:31
+- [Multivariate Analysis and Unsupervised Learning - Lesson 7b Principal Component Analysis PCA in P...](https://www.youtube.com/watch?v=u8th43VOyCw) 0:21:10
+- [Análise Multivariada e Aprendizado Não-Supervisionado - PCA Componentes principais - Aplicação em R](https://www.youtube.com/watch?v=TvMeRSzaHzI) 0:27:12
+
+### Análise fatorial
+
+- [Multivariate Analysis and Unsupervised Learning - Lecture 8a Factor Analysis](https://www.youtube.com/watch?v=UdSkIrR4mZY) 0:31:56
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula8b Análise Fatorial -Aplicação em Python](https://www.youtube.com/watch?v=RlJHVUktHaM) 0:29:45
+
+### Análise de correlações canônicas
+
+- [Análise Multivariada e A Ñ Supervisionado - Aula 9b Análise de Correlações Canônicas Aplic em Python](https://www.youtube.com/watch?v=F1bJTOUGKpI) 0:12:45
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Análise de Correlações Canônicas](https://www.youtube.com/watch?v=Da9HjncQhbY) 0:26:26
+
+### Análise de agrupamentos (clustering)
+
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula10a Análise de Agrupamentos](https://www.youtube.com/watch?v=zyLDAnQMnbo) 0:30:14
+- [Análise Multivariada e Ap Não-Supervisionado - Aula10b Análise de Agrupamentos - Aplicação em Python](https://www.youtube.com/watch?v=d_CJGaAbC7o) 0:17:19
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula10c Agrupamentos exemplo passo a passo](https://www.youtube.com/watch?v=Re97VX6ZhPA) 0:28:04
+- [Lesson 10d - Cluster Analysis - A quick application in R](https://www.youtube.com/watch?v=zxNYDvOywa4) 0:08:06
+
+### Análise discriminante linear (LDA)
+
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula11a Análise discriminante linear](https://www.youtube.com/watch?v=C-0PoI063-c) 0:29:34
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula11c Análise discriminante linear Exemplo](https://www.youtube.com/watch?v=TtVh2J7y5Js) 0:13:29
+- [Análise Multivariada e A Não-Supervisionado Aula11d Análise discriminante Linear aplicação em Python](https://www.youtube.com/watch?v=xd0ov7v0dKM) 0:12:13
+
+### Discriminação logística
+
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula11b Função de discriminação logística](https://www.youtube.com/watch?v=c23oAl8JRnA) 0:10:58
+
+### Análise de correspondência
+
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula12a Análise de Correspondência](https://www.youtube.com/watch?v=Z7UMIEUx2xM) 0:23:54
+- [Análise Multivariada e Aprendizado Não-Supervisionado 12b Análise de Correspondência aplic em Python](https://www.youtube.com/watch?v=hgmLLcgrx-k) 0:11:40
+
+### Aula aberta (visão geral do curso)
+
+- [Análise Multivariada e Aprendizado Não-Supervisionado - Aula aberta](https://www.youtube.com/watch?v=cDyIRfFG2F8) 0:55:22
+
+## Estatística e Inferência (47)
+
+### Introdução à inferência estatística
+
 - [SME0123 Estatística I - Introdução à Inferência Estatística Aula 13/10/2026](https://www.youtube.com/watch?v=BZekCI85yE0) 1:39:35
+
+### Combinação linear de normais
+
+- [SME0123 Estatística I - Combinação linear de variáveis aleatórias normais](https://www.youtube.com/watch?v=4yhHa8RvcLk) 1:33:51
+
+### Erro padrão do estimador
+
+- [Introdução à Inferência Estatística - Erro padrão do estimador](https://www.youtube.com/watch?v=P4pFKLxnQ4g) 0:44:16
+
+### Estimação por máxima verossimilhança
+
+- [Introdução Inferência Estatística - Estimador de máx verossimilhança da média e variância da Normal](https://www.youtube.com/watch?v=bJ-fqVKYxc0) 1:17:01
+
+### Inferência bayesiana
+
+- [Introdução à Inferência Estatística - Introdução à Inferência Bayesiana com Aplicação em Python](https://www.youtube.com/watch?v=6mL83-hzDG4) 0:28:43
+
+### Intervalos de confiança
+
+- [Introdução à Inferência Estatística - Intervalos de confiança](https://www.youtube.com/watch?v=i2pU3jRBBdQ) 1:20:31
+
+### Normalidade, TLC e teste para a média (Python/rpy2)
+
+- [Aplicações em Python e rpy2 Shapiro Wilk, Teorema Limite Central e Teste de hipóteses para a média](https://www.youtube.com/watch?v=FoBRxYQmIZg) 0:18:30
 
 ### SME0123 Estatística I (SME0320)
 
@@ -101,14 +160,11 @@ Total: 231 vídeos
 - [Introdução à Inferência Estatística- Estimador de mínimos quadrados ordinários modelo linear simples](https://www.youtube.com/watch?v=KbltvPiYgZQ) 0:11:09
 - [Teorema do Limite Central - Estatística básica](https://www.youtube.com/watch?v=6e2MjaSFcEE) 0:02:45
 
+### Testes de hipóteses
+
+- [Introduction to Statistical Inference - Hypothesis Testing](https://www.youtube.com/watch?v=lzflg-0U01Y) 1:12:16
+
 ## Estatística e Otimização (CDPO) (8)
-
-### (sem playlist, por título)
-
-- [Conteúdo do curso CDPO Estatística e Otimização para Ciência de Dados e Pesquisa Operacional](https://www.youtube.com/watch?v=Yk--zVmJLmA) 0:02:21
-- [Estatística e Otimização Ciência de Dados e Pesquisa Operacional CDPO USP Cibele Russo Elias Helou](https://www.youtube.com/watch?v=Si-3BCrVUTc) 0:22:31
-- [Estatística e Otimização para Ciência de Dados e Pesquisa Operacional](https://www.youtube.com/watch?v=8wVfA16WytE) 0:01:20
-- [Segunda edição curso CDPO Estatística e Otimização para Ciência de Dados e Pesquisa Operacional](https://www.youtube.com/watch?v=V4ROG9fRD4U) 0:00:37
 
 ### CDPO Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
 
@@ -116,6 +172,13 @@ Total: 231 vídeos
 - [Aula aberta CDPO 2a edição: Estatística e Otimização para Ciência de Dados e Pesquisa Operacional](https://www.youtube.com/watch?v=ge1d1fpXQHs) 1:28:31
 - [Como executar notebooks em Python e uma brevíssima introdução ao NumPy, Pandas e Matplotlib.](https://www.youtube.com/watch?v=tHmsXXVQlgc) 1:34:57
 - [Testes de Hipóteses não provam nada: eles servem para decidir. Aula aberta Estatística 3 edição CDPO](https://www.youtube.com/watch?v=Z0USdSGlkJI) 1:19:39
+
+### Apresentação do curso CDPO
+
+- [Conteúdo do curso CDPO Estatística e Otimização para Ciência de Dados e Pesquisa Operacional](https://www.youtube.com/watch?v=Yk--zVmJLmA) 0:02:21
+- [Estatística e Otimização Ciência de Dados e Pesquisa Operacional CDPO USP Cibele Russo Elias Helou](https://www.youtube.com/watch?v=Si-3BCrVUTc) 0:22:31
+- [Estatística e Otimização para Ciência de Dados e Pesquisa Operacional](https://www.youtube.com/watch?v=8wVfA16WytE) 0:01:20
+- [Segunda edição curso CDPO Estatística e Otimização para Ciência de Dados e Pesquisa Operacional](https://www.youtube.com/watch?v=V4ROG9fRD4U) 0:00:37
 
 ## Fundamentos de Ciência de Dados (19)
 
@@ -143,71 +206,106 @@ Total: 231 vídeos
 
 ## Gestão da Qualidade (37)
 
-### (sem playlist, por título)
-
-- [Gestão da Qualidade - Aula10b  Gráfico de controle multivariado](https://www.youtube.com/watch?v=WznBDWzWDSk) 0:14:05
-- [Gestão da Qualidade - Aula12b Gráfico de controle multivariado - Aplicações em R](https://www.youtube.com/watch?v=2XAd8E5VaoE) 0:47:49
-
 ### SME0824 Gestão da Qualidade
 
-- [#OpenClasses2021 Quality Management](https://www.youtube.com/watch?v=mx-0lZtd760) 1:00:14
-- [GQ Aula8b Gráfico de controle para a fração não-conforme: Aplicação em R: embalagem suco de laranja](https://www.youtube.com/watch?v=IwfRN4mIe8w) 0:46:30
-- [Gestão da Qualidade -  Aula7b Gráfico Xbarra e S](https://www.youtube.com/watch?v=OEzqEbZMMyE) 0:12:26
-- [Gestão da Qualidade -  Aula7d Resolução de Exercício - Xbarra e R e Capacidade do processo](https://www.youtube.com/watch?v=yJmz1Vsr5ac) 0:52:44
+- [Gestão da Qualidade - Aula1 Qualidade e Processo](https://www.youtube.com/watch?v=L5v45SdcCMQ) 0:40:03
 - [Gestão da Qualidade - Aula 1b - Metodologia Seis Sigma](https://www.youtube.com/watch?v=vwUjTXIhB3Q) 0:12:16
 - [Gestão da Qualidade - Aula 1c - Exemplo qualidade fast food](https://www.youtube.com/watch?v=wGwk_80nTY0) 0:13:39
 - [Gestão da Qualidade - Aula 2 - Melhoria da Qualidade](https://www.youtube.com/watch?v=50qIQUJT5qs) 0:44:25
+- [Gestão da Qualidade - Aula2b - Exemplo peças retrabalhadas](https://www.youtube.com/watch?v=BccFq0HGtK4) 0:20:14
+- [Gestão da Qualidade - Aula3 - Revisão de Técnicas descritivas](https://www.youtube.com/watch?v=nVVJNq7AzB4) 0:19:07
+- [Gestão da Qualidade - Aula4 - Ferramentas básicas da qualidade](https://www.youtube.com/watch?v=ZEoKD9aRWMA) 0:28:49
+- [Gestão da Qualidade - Aula4b Exemplo DMAIC](https://www.youtube.com/watch?v=bXeg49oPg-k) 0:28:23
+- [Gestão da Qualidade - Aula4c - Exemplo gráfico Pareto](https://www.youtube.com/watch?v=hsnUDwi3-zA) 0:08:23
+- [Quality Management - Lesson 5: Methods for Statistical Process Control (SPC)](https://www.youtube.com/watch?v=kzge2DRjfqY) 0:37:41
+- [Gestão da Qualidade - Aula5b Gráfico de controle Xbarra e R](https://www.youtube.com/watch?v=g5-qSECCnAw) 0:56:30
+- [Gestão da Qualidade - Aula6 Gráficos de controle](https://www.youtube.com/watch?v=l3uUQc8pjWE) 0:47:56
+- [Gestão da Qualidade - Aula6b - Gráfico de controle Xbarra e S](https://www.youtube.com/watch?v=5qiqfg-S74k) 0:32:36
+- [Gestão da Qualidade - Aula6d - Gráficos Xbarra-R e Xbarra-S - Aplicação em R](https://www.youtube.com/watch?v=x_FBMJXjf8o) 0:28:39
+- [Gestão da Qualidade - Aula7a Introdução à capacidade do processo](https://www.youtube.com/watch?v=4sxfY9ZTfuw) 0:26:17
+- [Gestão da Qualidade -  Aula7b Gráfico Xbarra e S](https://www.youtube.com/watch?v=OEzqEbZMMyE) 0:12:26
+- [Gestão da Qualidade - Aula7c Revisão Ferramentas da qualidade e capacidade do processo](https://www.youtube.com/watch?v=QlE-PRrSs00) 0:24:56
+- [Gestão da Qualidade -  Aula7d Resolução de Exercício - Xbarra e R e Capacidade do processo](https://www.youtube.com/watch?v=yJmz1Vsr5ac) 0:52:44
+- [Gestão da Qualidade - Aula8 Gráfico de controle por atributos  - Fração não-conforme](https://www.youtube.com/watch?v=XJr5ATS6yAA) 0:30:39
+- [GQ Aula8b Gráfico de controle para a fração não-conforme: Aplicação em R: embalagem suco de laranja](https://www.youtube.com/watch?v=IwfRN4mIe8w) 0:46:30
+- [QG Aula8c - Exercício tempo de atendimento - Análise de capacidade do processo - Análise de custo](https://www.youtube.com/watch?v=Yxl25MxIhlA) 0:16:11
+- [Gestão da Qualidade - Aula8d - Gráficos de controle para não-conformidades](https://www.youtube.com/watch?v=yk4eKTv3zS4) 0:20:37
+- [Gestão da Qualidade - Aula8e - Exemplos de Gestão da Qualidade com Minitab](https://www.youtube.com/watch?v=RA9sOKtjCYw) 0:44:04
+- [Gestão da Qualidade - Aula9 Análise da Capacidade do Processo](https://www.youtube.com/watch?v=roGnoEz601A) 0:42:15
+- [Quality Management - Lesson 9: Control Charts in Python](https://www.youtube.com/watch?v=_6TnIAtC3DY) 0:28:31
+- [Gestão da Qualidade - Aula9b Análise da capacidade de um medidor ou sistema de medição](https://www.youtube.com/watch?v=oXba_VzI3RI) 0:30:27
 - [Gestão da Qualidade - Aula 9c Análise da capacidade de um sistema de medição via ANOVA](https://www.youtube.com/watch?v=FzbBWvwHcG4) 0:22:44
-- [Gestão da Qualidade - Aula1 Qualidade e Processo](https://www.youtube.com/watch?v=L5v45SdcCMQ) 0:40:03
+- [Gestão da Qualidade - Aula9d Exercício Capacidade do Processo em Python](https://www.youtube.com/watch?v=Cza46XX-NH4) 0:27:49
 - [Gestão da Qualidade - Aula10 Gráfico de controle das somas cumulativas CUSUM](https://www.youtube.com/watch?v=zpjR9fxg-Ig) 0:28:27
 - [Gestão da Qualidade - Aula10b - Gráficos de controle, CUSUM e EWMA em R](https://www.youtube.com/watch?v=gVFgawJl-i0) 0:27:42
 - [Gestão da Qualidade - Aula10c - Exemplo Máscara V em R](https://www.youtube.com/watch?v=VTCchFHcm4c) 0:13:21
 - [Gestão da Qualidade - Aula11 Gráfico de controle da média móvel exponencialmente ponderada MMEP](https://www.youtube.com/watch?v=Qa4N_PqqIaU) 0:21:37
 - [Gestão da Qualidade - Aula11b Gráficos de controle, CUSUM e EWMA em Python](https://www.youtube.com/watch?v=9DWeAG2O2qA) 0:28:56
 - [Gestão da Qualidade - Aula12 Gráfico de controle multivariado](https://www.youtube.com/watch?v=4zEGVsec_gE) 0:37:10
-- [Gestão da Qualidade - Aula2b - Exemplo peças retrabalhadas](https://www.youtube.com/watch?v=BccFq0HGtK4) 0:20:14
-- [Gestão da Qualidade - Aula3 - Revisão de Técnicas descritivas](https://www.youtube.com/watch?v=nVVJNq7AzB4) 0:19:07
-- [Gestão da Qualidade - Aula4 - Ferramentas básicas da qualidade](https://www.youtube.com/watch?v=ZEoKD9aRWMA) 0:28:49
-- [Gestão da Qualidade - Aula4b Exemplo DMAIC](https://www.youtube.com/watch?v=bXeg49oPg-k) 0:28:23
-- [Gestão da Qualidade - Aula4c - Exemplo gráfico Pareto](https://www.youtube.com/watch?v=hsnUDwi3-zA) 0:08:23
-- [Gestão da Qualidade - Aula5b Gráfico de controle Xbarra e R](https://www.youtube.com/watch?v=g5-qSECCnAw) 0:56:30
-- [Gestão da Qualidade - Aula6 Gráficos de controle](https://www.youtube.com/watch?v=l3uUQc8pjWE) 0:47:56
-- [Gestão da Qualidade - Aula6b - Gráfico de controle Xbarra e S](https://www.youtube.com/watch?v=5qiqfg-S74k) 0:32:36
-- [Gestão da Qualidade - Aula6d - Gráficos Xbarra-R e Xbarra-S - Aplicação em R](https://www.youtube.com/watch?v=x_FBMJXjf8o) 0:28:39
-- [Gestão da Qualidade - Aula7a Introdução à capacidade do processo](https://www.youtube.com/watch?v=4sxfY9ZTfuw) 0:26:17
-- [Gestão da Qualidade - Aula7c Revisão Ferramentas da qualidade e capacidade do processo](https://www.youtube.com/watch?v=QlE-PRrSs00) 0:24:56
-- [Gestão da Qualidade - Aula8 Gráfico de controle por atributos  - Fração não-conforme](https://www.youtube.com/watch?v=XJr5ATS6yAA) 0:30:39
-- [Gestão da Qualidade - Aula8d - Gráficos de controle para não-conformidades](https://www.youtube.com/watch?v=yk4eKTv3zS4) 0:20:37
-- [Gestão da Qualidade - Aula8e - Exemplos de Gestão da Qualidade com Minitab](https://www.youtube.com/watch?v=RA9sOKtjCYw) 0:44:04
-- [Gestão da Qualidade - Aula9 Análise da Capacidade do Processo](https://www.youtube.com/watch?v=roGnoEz601A) 0:42:15
-- [Gestão da Qualidade - Aula9b Análise da capacidade de um medidor ou sistema de medição](https://www.youtube.com/watch?v=oXba_VzI3RI) 0:30:27
-- [Gestão da Qualidade - Aula9d Exercício Capacidade do Processo em Python](https://www.youtube.com/watch?v=Cza46XX-NH4) 0:27:49
-- [QG Aula8c - Exercício tempo de atendimento - Análise de capacidade do processo - Análise de custo](https://www.youtube.com/watch?v=Yxl25MxIhlA) 0:16:11
-- [Quality Management - Lesson 5: Methods for Statistical Process Control (SPC)](https://www.youtube.com/watch?v=kzge2DRjfqY) 0:37:41
-- [Quality Management - Lesson 9: Control Charts in Python](https://www.youtube.com/watch?v=_6TnIAtC3DY) 0:28:31
+- [#OpenClasses2021 Quality Management](https://www.youtube.com/watch?v=mx-0lZtd760) 1:00:14
+
+### Gráfico de controle multivariado
+
+- [Gestão da Qualidade - Aula10b  Gráfico de controle multivariado](https://www.youtube.com/watch?v=WznBDWzWDSk) 0:14:05
+- [Gestão da Qualidade - Aula12b Gráfico de controle multivariado - Aplicações em R](https://www.youtube.com/watch?v=2XAd8E5VaoE) 0:47:49
 
 ## Machine Learning (Aprendizado de Máquina Estatístico) (11)
 
-### (sem playlist, por título)
+### Introdução ao aprendizado de máquina
+
+- [Statistical Machine Learning - Introduction to Machine Learning](https://www.youtube.com/watch?v=6ul0_NK8Zc4) 0:11:24
+
+### Pré-processamento de dados
+
+- [Statistical Machine Learning - Data Preprocessing in Python](https://www.youtube.com/watch?v=WcqXkaitNrs) 0:25:17
+
+### Classificação e classificador de Bayes
+
+- [Aprendizado de máquina estatístico - Aprendizado para classificação parte1](https://www.youtube.com/watch?v=sWyV1BWpd-U) 0:35:06
+
+### Matriz de confusão e métricas
 
 - [Aprendizado de Máquina Estatístico: Classificação parte2 Critérios de desempenho, matriz de confusão](https://www.youtube.com/watch?v=i07lpvpGppY) 0:11:43
-- [Aprendizado de máquina estatístico - Aplicação em Python de Regressão logística e KNN](https://www.youtube.com/watch?v=hZcQ4-hoyfg) 0:39:51
-- [Aprendizado de máquina estatístico - Aprendizado para classificação parte1](https://www.youtube.com/watch?v=sWyV1BWpd-U) 0:35:06
+
+### Curva ROC
+
 - [Aprendizado de máquina estatístico - Classificação parte 3 - Curva ROC](https://www.youtube.com/watch?v=lehstPCUeWc) 0:03:34
-- [Aprendizado de máquina estatístico - Introdução a Redes neurais multicamadas - Multilayer perceptron](https://www.youtube.com/watch?v=JCEVfXhT41U) 1:05:23
+
+### KNN
+
 - [Aprendizado de máquina estatístico - Métodos baseados em distâncias -  KNN](https://www.youtube.com/watch?v=Wolv-G1FxaU) 0:12:55
-- [Aprendizado de máquina estatístico - Redes neurais artificiais 2 - Algoritmo perceptron - AND lógico](https://www.youtube.com/watch?v=l84ngoyoUic) 0:27:54
+
+### Regressão logística e KNN (Python)
+
+- [Aprendizado de máquina estatístico - Aplicação em Python de Regressão logística e KNN](https://www.youtube.com/watch?v=hZcQ4-hoyfg) 0:39:51
+
+### Naive Bayes
+
 - [Aprendizado de máquina estatístico - Revisão de Probabilidades e Naive Bayes com aplicação em Python](https://www.youtube.com/watch?v=_V9DCH4kxrg) 0:31:37
+
+### Introdução às redes neurais
+
 - [Aprendizado de máquina estatístico - Uma introdução às redes neurais artificiais - parte 1](https://www.youtube.com/watch?v=SBH4b_UXiQY) 0:25:13
-- [Statistical Machine Learning - Data Preprocessing in Python](https://www.youtube.com/watch?v=WcqXkaitNrs) 0:25:17
-- [Statistical Machine Learning - Introduction to Machine Learning](https://www.youtube.com/watch?v=6ul0_NK8Zc4) 0:11:24
+
+### Perceptron
+
+- [Aprendizado de máquina estatístico - Redes neurais artificiais 2 - Algoritmo perceptron - AND lógico](https://www.youtube.com/watch?v=l84ngoyoUic) 0:27:54
+
+### Redes neurais multicamadas (MLP)
+
+- [Aprendizado de máquina estatístico - Introdução a Redes neurais multicamadas - Multilayer perceptron](https://www.youtube.com/watch?v=JCEVfXhT41U) 1:05:23
 
 ## Modelos de Regressão (27)
 
-### (sem playlist, por título)
+### Modelos de regressão
 
-- [Modelos de regressão- EQM Estimador de mínimos quadrados de B no modelo de regressão linear múltiplo](https://www.youtube.com/watch?v=ecjSj697Tpo) 0:16:10
-- [Prática - Modelo de regressão logística e outros modelos para resposta binária](https://www.youtube.com/watch?v=KfjrnaoB8q0) 1:09:34
+- [Visualização e Exploração de Dados - Aula9a Associação entre variáveis quantitativas](https://www.youtube.com/watch?v=ul0DfZe9eWY) 0:54:06
+- [Visualização e Exploração de Dados - Aula9d Modelo de Regressão Linear Simples](https://www.youtube.com/watch?v=svvJZiI86JA) 0:18:46
+- [Introdução à Inferência Estatística - Regressão Linear Simples](https://www.youtube.com/watch?v=b1YSStbQceI) 1:23:02
+- [Modelos de Regressão - Modelo de regressão logística e MLGs  - Teoria e aplicação em Python](https://www.youtube.com/watch?v=SLBoivUXncQ) 0:53:07
+- [Modelos de Regressão e Aprendizado Supervisionado II - Aprendizado de Máquina](https://www.youtube.com/watch?v=0Rr4S5U3abE) 1:17:03
+- [Modelos de Regressão e Aprendizado Supervisionado II - Diagnóstico em MLGs - a função desvio](https://www.youtube.com/watch?v=Vk1fKh3hx3o) 0:56:53
+- [Modelos de Regressão e Aprendizado Supervisionado II - MLGs Resposta Binomial e funções de ligações](https://www.youtube.com/watch?v=IOr45V_yu6w) 1:14:40
 
 ### EST5507 Modelos de Regressão (PIPGEs)
 
@@ -228,33 +326,77 @@ Total: 231 vídeos
 - [Modelos Lineares - Distribuição de formas quadráticas](https://www.youtube.com/watch?v=o8nS0OWj7Pk) 1:18:25
 - [Modelos Lineares - Modelo linear geral com matriz de planejamento de posto completo](https://www.youtube.com/watch?v=5iUitKI7PGk) 0:50:16
 
-### Modelos de regressão
+### Mínimos quadrados na regressão múltipla
 
-- [Introdução à Inferência Estatística - Regressão Linear Simples](https://www.youtube.com/watch?v=b1YSStbQceI) 1:23:02
-- [Modelos de Regressão - Modelo de regressão logística e MLGs  - Teoria e aplicação em Python](https://www.youtube.com/watch?v=SLBoivUXncQ) 0:53:07
-- [Modelos de Regressão e Aprendizado Supervisionado II - Aprendizado de Máquina](https://www.youtube.com/watch?v=0Rr4S5U3abE) 1:17:03
-- [Modelos de Regressão e Aprendizado Supervisionado II - Diagnóstico em MLGs - a função desvio](https://www.youtube.com/watch?v=Vk1fKh3hx3o) 0:56:53
-- [Modelos de Regressão e Aprendizado Supervisionado II - MLGs Resposta Binomial e funções de ligações](https://www.youtube.com/watch?v=IOr45V_yu6w) 1:14:40
-- [Visualização e Exploração de Dados - Aula9a Associação entre variáveis quantitativas](https://www.youtube.com/watch?v=ul0DfZe9eWY) 0:54:06
-- [Visualização e Exploração de Dados - Aula9d Modelo de Regressão Linear Simples](https://www.youtube.com/watch?v=svvJZiI86JA) 0:18:46
+- [Modelos de regressão- EQM Estimador de mínimos quadrados de B no modelo de regressão linear múltiplo](https://www.youtube.com/watch?v=ecjSj697Tpo) 0:16:10
+
+### Regressão logística e resposta binária
+
+- [Prática - Modelo de regressão logística e outros modelos para resposta binária](https://www.youtube.com/watch?v=KfjrnaoB8q0) 1:09:34
 
 ### SME0823 Modelos de Regressão e Aprendizado Supervisionado II
 
 - [Modelos de Regressão e Aprendizado Supervisionado II - Estimação de máxima verossimilhança em MLGs](https://www.youtube.com/watch?v=iXxnQLzHXnw) 1:23:15
 - [Modelos de Regressão e Aprendizado Supervisionado II - Modelos para resposta binária](https://www.youtube.com/watch?v=3o3GJJ5jjL8) 0:21:09
 
+## Visualização e Exploração de Dados (35)
+
+### SME0803 Visualização e Exploração de Dados
+
+- [Visualização e Exploração de Dados - Aula 1 Organização e Natureza dos Dados](https://www.youtube.com/watch?v=n3zHTAVIzFw) 0:41:22
+- [Data Visualization and Exploration - Lesson 2a: Tabular and Graphical Representation of Qualitati...](https://www.youtube.com/watch?v=9gIxlXMCBmk) 0:24:27
+- [Visualização e Exploração de Dados - Aula 2b Representação tabular e gráfica de dados qualitativos R](https://www.youtube.com/watch?v=b1esaJTmYUA) 0:11:48
+- [Visualização e Exploração de Dados - Aula 2c Representação de dados qualitativos - Aplicação em R](https://www.youtube.com/watch?v=oTr12gxwznM) 0:27:14
+- [Visualização e Exploração de Dados - Aula 3 - Medidas descritivas de dados quantitativos](https://www.youtube.com/watch?v=uO8zutw-21Q) 0:43:08
+- [Visualização e Exploração de Dados - Aula 3b ao vivo -  Propriedades da média e da variância](https://www.youtube.com/watch?v=Gnw6A1ghbnY) 0:37:23
+- [Visualização e Exploração de Dados - Aula4a - Medidas descritivas de dados quantitativos - Parte 2](https://www.youtube.com/watch?v=eY4lH97fuLs) 0:27:39
+- [Visualização Exploração de Dados -Aula 4b Medidas descritivas de dados quantitativos Aplicações em R](https://www.youtube.com/watch?v=itAxbrPtjMw) 0:12:39
+- [Visualização e Exploração de Dados - Aula 5 Medidas de concentração e desigualdade](https://www.youtube.com/watch?v=TlJDwDpNqts) 1:00:44
+- [VED - Aula 5b Medidas de concentração e desigualdade em R - Curva de Lorenz e Índice de Gini](https://www.youtube.com/watch?v=9i0RY6qsLAs) 0:13:09
+- [Visualização e Exploração de Dados - Aula 6 - Representação de dados quantitativos](https://www.youtube.com/watch?v=o0USKpBv8J8) 0:39:57
+- [Visualização e Exploração de Dados - Aula 6b Histograma e boxplots feitos "à mão"](https://www.youtube.com/watch?v=MHiBdis-f6w) 0:47:08
+- [Aula 6c Representação de dados quantitativos em R - Gráfico de barras, histograma, boxplot e outros](https://www.youtube.com/watch?v=nvLqF1WhmE0) 0:33:01
+- [Data Visualization and Exploration - Lesson 6d Data Visualization and Exploration in Python - Part 1](https://www.youtube.com/watch?v=fRl-KvZ42E0) 0:30:56
+- [Visualização e Exploração de Dados - Aula7a Associação de variáveis](https://www.youtube.com/watch?v=__DwH9DvLF4) 0:21:33
+- [Visualização e Exploração de Dados -  Aula7b - Associação de variáveis qualitativas](https://www.youtube.com/watch?v=U0vcRmRRNAw) 0:33:10
+- [Visualização e Exploração de Dados - Aula8a Associação entre variáveis quantitativa e qualitativa](https://www.youtube.com/watch?v=EmE5ywYsArY) 0:18:41
+- [Visualização e Exploração de Dados - Aula8b Associação v. quantitativa e qualitativa Aplicações em R](https://www.youtube.com/watch?v=xWMiCXUGs04) 0:17:19
+- [Visualização e Exploração de Dados - Aula8c Associação entre variáveis quantitativas e qualitativas](https://www.youtube.com/watch?v=HoubNQq5xpY) 0:39:16
+- [Visualização e Exploração de Dados - Aula8d Relatório de análises em RMarkdown](https://www.youtube.com/watch?v=uEGeu_v3wrE) 0:12:26
+- [Visualização e Exploração de Dados - Aula9b Associação entre variáveis quantitativas Aplicações em R](https://www.youtube.com/watch?v=xpZzPKdOTs0) 0:26:47
+- [Visualização e Exploração de Dados - Aula9c Revisao](https://www.youtube.com/watch?v=Q2GzhkL52x0) 0:15:01
+- [Visualização e Exploração de Dados - Aula 10 Associação entre variáveis em Python](https://www.youtube.com/watch?v=iya9miONKcg) 0:30:35
+- [Visualização e Exploração de Dados - Aula 11 Representação de dados multidimensionais](https://www.youtube.com/watch?v=UPB65v9ZMyk) 0:40:12
+- [Visualização e Exploração de Dados - Aula 11b Representação de dados multidimensionais Parte 2](https://www.youtube.com/watch?v=6tSNc5CTXos) 0:44:42
+- [Visualização e Exploração de Dados - Aula 11c Representação de dados multidimensionais - Tree map](https://www.youtube.com/watch?v=sFeOcGk5tCM) 0:26:47
+- [Visualização e Exploração de Dados - Aula 12 - Pirâmide etaria ou pirâmide populacional](https://www.youtube.com/watch?v=I3Xkw4BeHk0) 0:23:02
+- [#USPCLASS Open Lectures - Introductory Lecture on Data Visualization and Exploration - ICMC USP](https://www.youtube.com/watch?v=IUc0WzC7D6M) 0:50:09
+- [VED - Exercícios resolvidos: propriedade de invariância coeficiente de correlação linear de Pearson](https://www.youtube.com/watch?v=_YBzeEL_Fe4) 1:17:33
+- [Visualização de dados geolocalizados no R Shiny](https://www.youtube.com/watch?v=25ND51icjIw) 1:47:13
+- [Visualização e Exploração de Dados - Curva de Sensibilidade de medidas descritivas](https://www.youtube.com/watch?v=yVW7G63m7HM) 0:11:33
+- [Visualização e Exploração de Dados - Introdução ao R](https://www.youtube.com/watch?v=EL7rsLPwilw) 0:38:16
+- [Visualização e Exploração de Dados - Python no google colab - Associação de variáveis](https://www.youtube.com/watch?v=tRw_ufCFNA8) 0:11:37
+
+### Associação entre variáveis qualitativas (qui-quadrado)
+
+- [Data Visualization and Exploration - Lesson 7c Qualitative Variable Association Pearson's Chi-Square](https://www.youtube.com/watch?v=Sr3vOUxpwCg) 0:21:31
+- [Visualização e Exploração de Dados - Aula7d Associação entre variáveis qualitativas -Aplicações em R](https://www.youtube.com/watch?v=hcmtyRjKOkw) 0:22:27
+
 ## Palestras e Eventos (11)
-
-### (sem playlist, por título)
-
-- [Acompanhamento Profissional BMACC 22/04/2026 ICMC USP](https://www.youtube.com/watch?v=5WToCtjytAk) 1:03:17
-- [Alternativas a aulas presenciais usando o google meet](https://www.youtube.com/watch?v=zSYW9LAPi5A) 0:02:18
-- [Lesson guide https://rpubs.com/cibelerusso/videoaulas materials at https://github.com/cibelerusso](https://www.youtube.com/watch?v=wzomalkbOQg) 0:03:12
-- [SME0890 Direcionamento acadêmico aula ao vivo com a presença da diretoria da ICMCJr](https://www.youtube.com/watch?v=KjttSXnhf_k) 0:52:05
 
 ### Dicas para aulas online/remotas/virtuais
 
+- [Alternativas a aulas presenciais usando o google meet](https://www.youtube.com/watch?v=zSYW9LAPi5A) 0:02:18
 - [Como elaborar uma prova com questões aleatórias no Moodle/e-disciplinas](https://www.youtube.com/watch?v=mpyuhT7L-L4) 0:13:55
+
+### Guia das videoaulas e materiais
+
+- [Lesson guide https://rpubs.com/cibelerusso/videoaulas materials at https://github.com/cibelerusso](https://www.youtube.com/watch?v=wzomalkbOQg) 0:03:12
+
+### Orientação acadêmica e profissional
+
+- [Acompanhamento Profissional BMACC 22/04/2026 ICMC USP](https://www.youtube.com/watch?v=5WToCtjytAk) 1:03:17
+- [SME0890 Direcionamento acadêmico aula ao vivo com a presença da diretoria da ICMCJr](https://www.youtube.com/watch?v=KjttSXnhf_k) 0:52:05
 
 ### Palestras
 
@@ -264,47 +406,3 @@ Total: 231 vídeos
 - [Live with Cibele Russo (IME | USP) - Why do data scientists need to study mathematics?](https://www.youtube.com/watch?v=oxalO6bl7dc) 0:57:18
 - [R x Python para Estatística e Ciência de Dados. Quem ganha essa briga? com Dalson Figueiredo](https://www.youtube.com/watch?v=DpsA5lyFJ5Y) 1:30:32
 - [Ômega Talks | Cibele Russo · Revisitando modelos não-lineares com efeitos aleatórios](https://www.youtube.com/watch?v=yovVzn-wmIU) 1:17:54
-
-## Visualização e Exploração de Dados (35)
-
-### (sem playlist, por título)
-
-- [Data Visualization and Exploration - Lesson 7c Qualitative Variable Association Pearson's Chi-Square](https://www.youtube.com/watch?v=Sr3vOUxpwCg) 0:21:31
-- [Visualização e Exploração de Dados - Aula7d Associação entre variáveis qualitativas -Aplicações em R](https://www.youtube.com/watch?v=hcmtyRjKOkw) 0:22:27
-
-### SME0803 Visualização e Exploração de Dados
-
-- [#USPCLASS Open Lectures - Introductory Lecture on Data Visualization and Exploration - ICMC USP](https://www.youtube.com/watch?v=IUc0WzC7D6M) 0:50:09
-- [Aula 6c Representação de dados quantitativos em R - Gráfico de barras, histograma, boxplot e outros](https://www.youtube.com/watch?v=nvLqF1WhmE0) 0:33:01
-- [Data Visualization and Exploration - Lesson 2a: Tabular and Graphical Representation of Qualitati...](https://www.youtube.com/watch?v=9gIxlXMCBmk) 0:24:27
-- [Data Visualization and Exploration - Lesson 6d Data Visualization and Exploration in Python - Part 1](https://www.youtube.com/watch?v=fRl-KvZ42E0) 0:30:56
-- [VED - Aula 5b Medidas de concentração e desigualdade em R - Curva de Lorenz e Índice de Gini](https://www.youtube.com/watch?v=9i0RY6qsLAs) 0:13:09
-- [VED - Exercícios resolvidos: propriedade de invariância coeficiente de correlação linear de Pearson](https://www.youtube.com/watch?v=_YBzeEL_Fe4) 1:17:33
-- [Visualização Exploração de Dados -Aula 4b Medidas descritivas de dados quantitativos Aplicações em R](https://www.youtube.com/watch?v=itAxbrPtjMw) 0:12:39
-- [Visualização de dados geolocalizados no R Shiny](https://www.youtube.com/watch?v=25ND51icjIw) 1:47:13
-- [Visualização e Exploração de Dados -  Aula7b - Associação de variáveis qualitativas](https://www.youtube.com/watch?v=U0vcRmRRNAw) 0:33:10
-- [Visualização e Exploração de Dados - Aula 1 Organização e Natureza dos Dados](https://www.youtube.com/watch?v=n3zHTAVIzFw) 0:41:22
-- [Visualização e Exploração de Dados - Aula 10 Associação entre variáveis em Python](https://www.youtube.com/watch?v=iya9miONKcg) 0:30:35
-- [Visualização e Exploração de Dados - Aula 11 Representação de dados multidimensionais](https://www.youtube.com/watch?v=UPB65v9ZMyk) 0:40:12
-- [Visualização e Exploração de Dados - Aula 11b Representação de dados multidimensionais Parte 2](https://www.youtube.com/watch?v=6tSNc5CTXos) 0:44:42
-- [Visualização e Exploração de Dados - Aula 11c Representação de dados multidimensionais - Tree map](https://www.youtube.com/watch?v=sFeOcGk5tCM) 0:26:47
-- [Visualização e Exploração de Dados - Aula 12 - Pirâmide etaria ou pirâmide populacional](https://www.youtube.com/watch?v=I3Xkw4BeHk0) 0:23:02
-- [Visualização e Exploração de Dados - Aula 2b Representação tabular e gráfica de dados qualitativos R](https://www.youtube.com/watch?v=b1esaJTmYUA) 0:11:48
-- [Visualização e Exploração de Dados - Aula 2c Representação de dados qualitativos - Aplicação em R](https://www.youtube.com/watch?v=oTr12gxwznM) 0:27:14
-- [Visualização e Exploração de Dados - Aula 3 - Medidas descritivas de dados quantitativos](https://www.youtube.com/watch?v=uO8zutw-21Q) 0:43:08
-- [Visualização e Exploração de Dados - Aula 3b ao vivo -  Propriedades da média e da variância](https://www.youtube.com/watch?v=Gnw6A1ghbnY) 0:37:23
-- [Visualização e Exploração de Dados - Aula 5 Medidas de concentração e desigualdade](https://www.youtube.com/watch?v=TlJDwDpNqts) 1:00:44
-- [Visualização e Exploração de Dados - Aula 6 - Representação de dados quantitativos](https://www.youtube.com/watch?v=o0USKpBv8J8) 0:39:57
-- [Visualização e Exploração de Dados - Aula 6b Histograma e boxplots feitos "à mão"](https://www.youtube.com/watch?v=MHiBdis-f6w) 0:47:08
-- [Visualização e Exploração de Dados - Aula4a - Medidas descritivas de dados quantitativos - Parte 2](https://www.youtube.com/watch?v=eY4lH97fuLs) 0:27:39
-- [Visualização e Exploração de Dados - Aula7a Associação de variáveis](https://www.youtube.com/watch?v=__DwH9DvLF4) 0:21:33
-- [Visualização e Exploração de Dados - Aula8a Associação entre variáveis quantitativa e qualitativa](https://www.youtube.com/watch?v=EmE5ywYsArY) 0:18:41
-- [Visualização e Exploração de Dados - Aula8b Associação v. quantitativa e qualitativa Aplicações em R](https://www.youtube.com/watch?v=xWMiCXUGs04) 0:17:19
-- [Visualização e Exploração de Dados - Aula8c Associação entre variáveis quantitativas e qualitativas](https://www.youtube.com/watch?v=HoubNQq5xpY) 0:39:16
-- [Visualização e Exploração de Dados - Aula8d Relatório de análises em RMarkdown](https://www.youtube.com/watch?v=uEGeu_v3wrE) 0:12:26
-- [Visualização e Exploração de Dados - Aula9b Associação entre variáveis quantitativas Aplicações em R](https://www.youtube.com/watch?v=xpZzPKdOTs0) 0:26:47
-- [Visualização e Exploração de Dados - Aula9c Revisao](https://www.youtube.com/watch?v=Q2GzhkL52x0) 0:15:01
-- [Visualização e Exploração de Dados - Curva de Sensibilidade de medidas descritivas](https://www.youtube.com/watch?v=yVW7G63m7HM) 0:11:33
-- [Visualização e Exploração de Dados - Introdução ao R](https://www.youtube.com/watch?v=EL7rsLPwilw) 0:38:16
-- [Visualização e Exploração de Dados - Python no google colab - Associação de variáveis](https://www.youtube.com/watch?v=tRw_ufCFNA8) 0:11:37
-
