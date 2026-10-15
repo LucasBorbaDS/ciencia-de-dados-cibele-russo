@@ -36,9 +36,19 @@
 - Aula 10: O Algoritmo Perceptron e Treinamento com a Porta Lógica AND
 - Aula 11: Redes Neurais Multicamadas (MLP), Funções Não Lineares e Backpropagation
 
-## 🏷️ Subtemas (playlists do canal)
+## 🏷️ Subtemas 
 
-- (sem playlist, por título)
+- Introdução ao aprendizado de máquina
+- Pré-processamento de dados
+- Classificação e classificador de Bayes
+- Matriz de confusão e métricas
+- Curva ROC
+- KNN
+- Regressão logística e KNN (Python)
+- Naive Bayes
+- Introdução às redes neurais
+- Perceptron
+- Redes neurais multicamadas (MLP)
 
 ## 🖼️ Prévia dos slides
 

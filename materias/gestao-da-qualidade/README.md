@@ -32,10 +32,10 @@
 - 6. Questões Dissertativas (Sem Gabarito)
 - 7. Glossário Exaustivo de Termos-Chave
 
-## 🏷️ Subtemas (playlists do canal)
+## 🏷️ Subtemas 
 
-- (sem playlist, por título)
 - SME0824 Gestão da Qualidade
+- Gráfico de controle multivariado
 
 ## 🖼️ Prévia dos slides
 
