@@ -44,7 +44,7 @@
 - 19. AULA 18: Validação de Modelos, Overfitting e Validação Cruzada (K-Fold)
 - ENCERRAMENTO DA TRILHA FORMATIVA
 
-## 🏷️ Subtemas (playlists do canal)
+## 🏷️ Subtemas 
 
 - 5500004 Fundamentos em Ciências de Dados
 

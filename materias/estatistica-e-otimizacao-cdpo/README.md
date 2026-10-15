@@ -30,10 +30,10 @@
 - 4. Propostas de Questões Discursivas (Ensaios)
 - 5. Glossário Completo de Termos Chave
 
-## 🏷️ Subtemas (playlists do canal)
+## 🏷️ Subtemas 
 
-- (sem playlist, por título)
 - CDPO Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
+- Apresentação do curso CDPO
 
 ## 🖼️ Prévia dos slides
 

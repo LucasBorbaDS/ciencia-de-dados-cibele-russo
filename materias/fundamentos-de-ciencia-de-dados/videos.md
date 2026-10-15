@@ -1,6 +1,6 @@
 # 🎬 Vídeos-fonte: Fundamentos de Ciência de Dados
 
-19 vídeos do canal [@CibeleRussoUSP](https://www.youtube.com/@CibeleRussoUSP). Todos os direitos dos vídeos pertencem à autora.
+19 vídeos do canal [@CibeleRussoUSP](https://www.youtube.com/@CibeleRussoUSP), organizados por subtema e na sequência das aulas. Todos os direitos dos vídeos pertencem à autora.
 
 | # | Subtema | Título | Duração |
 |---|---|---|---|
