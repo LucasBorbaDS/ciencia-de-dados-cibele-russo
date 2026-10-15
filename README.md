@@ -3,12 +3,12 @@
 
 <div align="center">
 
-![status](https://img.shields.io/badge/status-privado_%E2%80%94_aguardando_autoriza%C3%A7%C3%A3o_da_autora-orange) ![licença](https://img.shields.io/badge/licen%C3%A7a-CC_BY--NC--SA_4.0-lightgrey) ![idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs_%28BR%29-green) ![vídeos catalogados](https://img.shields.io/badge/v%C3%ADdeos_catalogados-231-blue) ![matérias](https://img.shields.io/badge/mat%C3%A9rias-8-purple) ![feito com](https://img.shields.io/badge/feito_com-NotebookLM-4285F4)
+![status](https://img.shields.io/badge/status-p%C3%BAblico_%E2%80%94_publicado_com_autoriza%C3%A7%C3%A3o_da_autora-brightgreen) ![licença](https://img.shields.io/badge/licen%C3%A7a-CC_BY--NC--SA_4.0-lightgrey) ![idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs_%28BR%29-green) ![vídeos catalogados](https://img.shields.io/badge/v%C3%ADdeos_catalogados-231-blue) ![matérias](https://img.shields.io/badge/mat%C3%A9rias-8-purple) ![feito com](https://img.shields.io/badge/feito_com-NotebookLM-4285F4)
 
 </div>
 
-> [!IMPORTANT]
-> **Repositório privado.** Este material só será publicado após autorização expressa da Profa. Cibele Russo.
+> [!NOTE]
+> ✅ **Publicação autorizada pela Profa. Cibele Russo** (ICMC/USP) em 15/10/2026. Material público e gratuito, para estudo.
 
 ## 🙏 Créditos
 

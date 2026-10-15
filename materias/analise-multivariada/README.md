@@ -1,6 +1,8 @@
 # 🧭 Análise Multivariada e Aprendizado Não-Supervisionado
 
-![vídeos-fonte](https://img.shields.io/badge/v%C3%ADdeos--fonte-37-blue) ![idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs-green) ![licença](https://img.shields.io/badge/licen%C3%A7a-CC_BY--NC--SA_4.0-lightgrey)
+![status](https://img.shields.io/badge/status-p%C3%BAblico_%E2%80%94_publicado_com_autoriza%C3%A7%C3%A3o_da_autora-brightgreen) ![vídeos-fonte](https://img.shields.io/badge/v%C3%ADdeos--fonte-37-blue) ![idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs-green) ![licença](https://img.shields.io/badge/licen%C3%A7a-CC_BY--NC--SA_4.0-lightgrey)
+
+> ✅ **Publicação autorizada pela Profa. Cibele Russo** (ICMC/USP) em 15/10/2026.
 
 > **Todo o conteúdo original é da Profa. Dra. Cibele Russo (ICMC/USP)**, publicado no canal [@CibeleRussoUSP](https://www.youtube.com/@CibeleRussoUSP). Este material é um **derivado de estudo**, gerado com auxílio do **Google NotebookLM** a partir das aulas, e pode conter imprecisões: na dúvida, vale sempre o vídeo original.
 
