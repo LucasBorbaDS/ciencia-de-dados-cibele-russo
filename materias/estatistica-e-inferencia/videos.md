@@ -1,16 +1,16 @@
 # 🎬 Vídeos-fonte: Estatística e Inferência
 
-46 vídeos do canal [@CibeleRussoUSP](https://www.youtube.com/@CibeleRussoUSP). Todos os direitos dos vídeos pertencem à autora.
+47 vídeos do canal [@CibeleRussoUSP](https://www.youtube.com/@CibeleRussoUSP), organizados por subtema e na sequência das aulas. Todos os direitos dos vídeos pertencem à autora.
 
 | # | Subtema | Título | Duração |
 |---|---|---|---|
-| 1 | (sem playlist, por título) | [Introduction to Statistical Inference - Hypothesis Testing](https://www.youtube.com/watch?v=lzflg-0U01Y) | 1:12:16 |
-| 2 | (sem playlist, por título) | [Introdução Inferência Estatística - Estimador de máx verossimilhança da média e variância da Normal](https://www.youtube.com/watch?v=bJ-fqVKYxc0) | 1:17:01 |
-| 3 | (sem playlist, por título) | [Introdução à Inferência Estatística - Erro padrão do estimador](https://www.youtube.com/watch?v=P4pFKLxnQ4g) | 0:44:16 |
-| 4 | (sem playlist, por título) | [Introdução à Inferência Estatística - Intervalos de confiança](https://www.youtube.com/watch?v=i2pU3jRBBdQ) | 1:20:31 |
-| 5 | (sem playlist, por título) | [Introdução à Inferência Estatística - Introdução à Inferência Bayesiana com Aplicação em Python](https://www.youtube.com/watch?v=6mL83-hzDG4) | 0:28:43 |
-| 6 | (sem playlist, por título) | [SME0123 Estatística I - Combinação linear de variáveis aleatórias normais](https://www.youtube.com/watch?v=4yhHa8RvcLk) | 1:33:51 |
-| 7 | (sem playlist, por título) | [SME0123 Estatística I - Introdução à Inferência Estatística Aula 13/10/2026](https://www.youtube.com/watch?v=BZekCI85yE0) | 1:39:35 |
+| 1 | Introdução à inferência estatística | [SME0123 Estatística I - Introdução à Inferência Estatística Aula 13/10/2026](https://www.youtube.com/watch?v=BZekCI85yE0) | 1:39:35 |
+| 2 | Combinação linear de normais | [SME0123 Estatística I - Combinação linear de variáveis aleatórias normais](https://www.youtube.com/watch?v=4yhHa8RvcLk) | 1:33:51 |
+| 3 | Erro padrão do estimador | [Introdução à Inferência Estatística - Erro padrão do estimador](https://www.youtube.com/watch?v=P4pFKLxnQ4g) | 0:44:16 |
+| 4 | Estimação por máxima verossimilhança | [Introdução Inferência Estatística - Estimador de máx verossimilhança da média e variância da Normal](https://www.youtube.com/watch?v=bJ-fqVKYxc0) | 1:17:01 |
+| 5 | Inferência bayesiana | [Introdução à Inferência Estatística - Introdução à Inferência Bayesiana com Aplicação em Python](https://www.youtube.com/watch?v=6mL83-hzDG4) | 0:28:43 |
+| 6 | Intervalos de confiança | [Introdução à Inferência Estatística - Intervalos de confiança](https://www.youtube.com/watch?v=i2pU3jRBBdQ) | 1:20:31 |
+| 7 | Normalidade, TLC e teste para a média (Python/rpy2) | [Aplicações em Python e rpy2 Shapiro Wilk, Teorema Limite Central e Teste de hipóteses para a média](https://www.youtube.com/watch?v=FoBRxYQmIZg) | 0:18:30 |
 | 8 | SME0123 Estatística I (SME0320) | [SME0123 Estatística I -  O problema de Monty Hall e variáveis aleatórias Aplicação Python](https://www.youtube.com/watch?v=6ImfD2kjBF8) | 1:34:03 |
 | 9 | SME0123 Estatística I (SME0320) | [SME0123 Estatística I - Análise Exploratória de Dados](https://www.youtube.com/watch?v=TPnoUvf4Nzo) | 1:47:35 |
 | 10 | SME0123 Estatística I (SME0320) | [SME0123 Estatística I - Análise Exploratória de Dados Parte 2](https://www.youtube.com/watch?v=plZL4YokOCs) | 1:40:34 |
@@ -50,5 +50,6 @@
 | 44 | SME0221 Introdução à Inferência Estatística | [Introdução à Inferência Estatística - Variáveis aleatórias](https://www.youtube.com/watch?v=_C3NgtMVk7A) | 1:27:10 |
 | 45 | SME0221 Introdução à Inferência Estatística | [Introdução à Inferência Estatística- Estimador de mínimos quadrados ordinários modelo linear simples](https://www.youtube.com/watch?v=KbltvPiYgZQ) | 0:11:09 |
 | 46 | SME0221 Introdução à Inferência Estatística | [Teorema do Limite Central - Estatística básica](https://www.youtube.com/watch?v=6e2MjaSFcEE) | 0:02:45 |
+| 47 | Testes de hipóteses | [Introduction to Statistical Inference - Hypothesis Testing](https://www.youtube.com/watch?v=lzflg-0U01Y) | 1:12:16 |
 
 [↩ Voltar à trilha](README.md)

@@ -1,6 +1,6 @@
 # 🧭 Análise Multivariada e Aprendizado Não-Supervisionado
 
-![status](https://img.shields.io/badge/status-p%C3%BAblico_%E2%80%94_publicado_com_autoriza%C3%A7%C3%A3o_da_autora-brightgreen) ![vídeos-fonte](https://img.shields.io/badge/v%C3%ADdeos--fonte-37-blue) ![idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs-green) ![licença](https://img.shields.io/badge/licen%C3%A7a-CC_BY--NC--SA_4.0-lightgrey)
+![status](https://img.shields.io/badge/status-p%C3%BAblico_%E2%80%94_publicado_com_autoriza%C3%A7%C3%A3o_da_autora-brightgreen) ![vídeos-fonte](https://img.shields.io/badge/v%C3%ADdeos--fonte-36-blue) ![idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs-green) ![licença](https://img.shields.io/badge/licen%C3%A7a-CC_BY--NC--SA_4.0-lightgrey)
 
 > ✅ **Publicação autorizada pela Profa. Cibele Russo** (ICMC/USP) em 15/10/2026.
 
@@ -39,9 +39,23 @@
 - Aula 13: Análise Discriminante Linear (LDA) e Regressão Logística para Classificação
 - Aula 14: Introdução à Análise de Correspondência (CA) e Síntese de Aprendizado Multivariado
 
-## 🏷️ Subtemas (playlists do canal)
+## 🏷️ Subtemas 
 
-- (sem playlist, por título)
+- Análise descritiva multivariada
+- Notação matricial
+- Vetores aleatórios
+- Distribuição normal multivariada
+- Teste de Hotelling e comparação de vetores de médias
+- MANOVA
+- Regressão multivariada
+- Componentes principais (PCA)
+- Análise fatorial
+- Análise de correlações canônicas
+- Análise de agrupamentos (clustering)
+- Análise discriminante linear (LDA)
+- Discriminação logística
+- Análise de correspondência
+- Aula aberta (visão geral do curso)
 
 ## 🖼️ Prévia dos slides
 
