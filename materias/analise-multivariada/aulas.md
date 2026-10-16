@@ -1,6 +1,6 @@
 > Material derivado das aulas da Profa. Cibele Russo (ICMC/USP), organizado com auxílio do NotebookLM. [↩ Voltar à trilha](README.md)
 
-# Guia de Estudos: Trilha Didática de Análise Multivariada e Aprendizado Não-Supervisionado
+# Guiia de Estudos: Trilha Didática de Análise Multivariada e Aprendizado Não-Supervisionado
 
 ## SUMÁRIO GERAL DA TRILHA
 
